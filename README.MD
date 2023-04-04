@@ -7,7 +7,6 @@ pip install -e .
 ##other dependencies
 [fastText](https://github.com/facebookresearch/fastText)
 [wordfreq](https://github.com/rspeer/wordfreq)
-
 #pretrained model
 You need download the following pretrianed models and put them into folder model/
 [NLLB](https://huggingface.co/facebook/nllb-200-3.3B)
@@ -19,6 +18,5 @@ sh sh_EN_LS.sh
 sh ES_LS.sh
 3)Portuguese
 sh_PT_LS.sh
-
 #Citation
 <!-- Please cite as: -->
