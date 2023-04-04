@@ -13,12 +13,15 @@ You need download the following pretrianed models and put them into folder model
 [NLLB](https://huggingface.co/facebook/nllb-200-3.3B)
 [fastText embedding](https://fasttext.cc/docs/en/crawl-vectors.html)
 # How to run
-1)English
-sh sh_EN_LS.sh
-2)Spanish
-sh ES_LS.sh
-3)Portuguese
-sh_PT_LS.sh
+## English
+sh sh_EN_LS.sh  
+
+## Spanish
+sh ES_LS.sh  
+
+## Portuguese
+sh_PT_LS.sh  
+
 
 # Citation
 <!-- Please cite as: -->
