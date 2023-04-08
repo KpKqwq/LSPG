@@ -27,6 +27,8 @@ sh ES_LS.sh
 ## Portuguese
 sh_PT_LS.sh  
 
+# Evaluation Scripts
+Please refer [here](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task)
 
 # Citation
 <!-- Please cite as: -->
