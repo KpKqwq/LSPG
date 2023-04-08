@@ -1,5 +1,5 @@
-# LSMMT
-Implementation of our paper "Lexical Simplification via Multilingual Machine
+# LSPG
+Implementation of our paper "Lexical Simplification via Paraphrase generation"
 Translation"
 # Dependencies&Installation
 This project is mainly buld on [transformers](https://github.com/huggingface/transformers/tree/v4.20-release), with customized modification of scripts.To start, you need to clone this repo and install transformers firstly. Use the following pip command in transformers/:  
