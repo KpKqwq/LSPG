@@ -1,4 +1,4 @@
-# MultiLS
+# LSMMT
 Implementation of our paper "Lexical Simplification via Multilingual Machine
 Translation"
 # Dependencies&Installation
