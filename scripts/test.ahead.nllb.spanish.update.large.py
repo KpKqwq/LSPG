@@ -258,8 +258,8 @@ def lexicalSubstitute(model,tokenizer, sentence, complex_word,prefix,suffix,beam
 def evaluate_lexical(model,tokenizer,ori_sentences,completed_steps):
     model.eval()
     potential=0
-    f1=open("results/spanish/tsar.results","w+")
-    f2=open("results/spanish/tsar.results.lookup","w+")
+    f1=open("results/tsar.results.es","w+")
+    f2=open("results/tsar.results.es.lookup","w+")
     from tqdm import tqdm
     for i in tqdm(range(len(ori_sentences))):
         line=ori_sentences[i]
