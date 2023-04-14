@@ -22,10 +22,10 @@ You need download the following pretrianed models and put them into folder model
 sh sh_EN_LS.sh  
 
 ## Spanish
-sh ES_LS.sh  
+sh sh_ES_LS.sh  
 
 ## Portuguese
-sh_PT_LS.sh  
+sh sh_PT_LS.sh  
 
 # Evaluation Scripts
 Please refer [here](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task)
