@@ -1,10 +1,11 @@
 # LSPG
-Implementation of our paper "Lexical Simplification via Paraphrase generation"
+Implementation of our paper "Multilingual Lexical Simplification via Paraphrase
+Generation"
 
 # Dependencies&Installation
 This project is mainly buld on [transformers](https://github.com/huggingface/transformers/tree/v4.20-release), with customized modification of scripts.To start, you need to clone this repo and install transformers firstly. Use the following pip command in transformers/:  
 pip install -e . 
-## other dependencies
+## Other dependencies
 [fastText](https://github.com/facebookresearch/fastText)  
 
 [wordfreq](https://github.com/rspeer/wordfreq)  
@@ -29,6 +30,10 @@ sh_PT_LS.sh
 
 # Evaluation Scripts
 Please refer [here](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task)
+
+# Results
+Results on TSAR2022 multilingual LS shared task
+![](PGLS.jpg)
 
 # Citation
 <!-- Please cite as: -->
