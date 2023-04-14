@@ -1,0 +1,14 @@
+===============   RESULTS  =============
+MAP@1/Potential@1/Precision@1 = 0.7433
+
+MAP@3 = 0.5023
+MAP@5 = 0.3739
+MAP@10 = 0.225
+
+Potential@3 = 0.9197
+Potential@5 = 0.9491
+Potential@10 = 0.9625
+
+Accuracy@1@top_gold_1 = 0.4598
+Accuracy@2@top_gold_1 = 0.5989
+Accuracy@3@top_gold_1 = 0.6524
