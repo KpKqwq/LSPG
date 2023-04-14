@@ -295,8 +295,8 @@ def evaluate_lexical(model,tokenizer,ori_sentences,completed_steps):
 
     model.eval()
     potential=0
-    f1=open("results/english/tsar.results","w+")
-    f2=open("results/english/tsar.results.lookup","w+")
+    f1=open("results/tsar.results.en","w+")
+    f2=open("results/tsar.results.en.lookup","w+")
     from tqdm import tqdm
     for i in tqdm(range(len(ori_sentences))):
         line=ori_sentences[i]
