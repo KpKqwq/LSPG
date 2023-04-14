@@ -33,7 +33,7 @@ Please refer [here](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task)
 
 # Results
 Results on TSAR2022 multilingual LS shared task
-![](PGLS.jpg)
+![](PGLS.png)
 
 # Citation
 <!-- Please cite as: -->
