@@ -58,8 +58,8 @@ def cal_static_score(complex_word,candis):
         return torch.zeros(len(candis)).tolist()
     candis_scores=[]
     for candi in candis:
-        if complex_word not in word_vec_model.wv.key_to_index.keys():
-            candis_scores.apped(-1)
+        if candi not in word_vec_model.wv.key_to_index.keys():
+            candis_scores.append(-1)
         else:
             candis_scores.append(word_vec_model.wv.similarity(complex_word, candi))
 
