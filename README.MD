@@ -36,3 +36,9 @@ Results on TSAR2022 multilingual LS shared task
 
 # Citation
 <!-- Please cite as: -->
+@inproceedings{liu-etal-2023-LSPG,
+    title = "Multilingual Lexical Simplification via Paraphrase Generation",
+    author = "Liu, Kang and Qiang, Jipeng and Li, Yun  and Yuan, Yunhao  and Zhu, Yi",
+    booktitle = "ECAI",
+    year = "2023"
+    }
