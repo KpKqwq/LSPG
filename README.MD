@@ -34,6 +34,9 @@ Please refer [here](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task)
 Results on TSAR2022 multilingual LS shared task
 ![](PGLS.jpg)
 
+# Futher Update
+We will release our new LLM-based LS method PromLS soonly.
+
 # Citation
 <!-- Please cite as: -->
 ```
