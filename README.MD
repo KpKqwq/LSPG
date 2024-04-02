@@ -2,22 +2,22 @@
 Implementation of our paper "Multilingual Lexical Simplification via Paraphrase
 Generation"
 
-# Dependencies&Installation
+# Dependencies&Installation :pushpin:
 This project is mainly buld on [transformers](https://github.com/huggingface/transformers/tree/v4.20-release), with customized modification of scripts.To start, you need to clone this repo and install transformers firstly. Use the following pip command in transformers/:  
 pip install -e . 
 
-## Other dependencies
+# Other dependencies :pushpin:
 pip install -r requirements.txt
 
 
-# Pretrained model
+# Pretrained model :pushpin:
 You need download the following pretrianed models and put them into folder model/  
 
 [NLLB](https://huggingface.co/facebook/nllb-200-3.3B)  
 
 [fastText embedding](https://fasttext.cc/docs/en/crawl-vectors.html)  
 
-# How to run
+# How to run :bike:
 ## English
 sh sh_EN_LS.sh  
 
@@ -27,14 +27,14 @@ sh sh_ES_LS.sh
 ## Portuguese
 sh sh_PT_LS.sh  
 
-# Evaluation Scripts
+# Evaluation Scripts :pushpin:
 Please refer [here](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task)
 
-# Results
+# Results :pushpin:
 Results on TSAR2022 multilingual LS shared task
 ![](PGLS.jpg)
 
-# Futher Update
+# Futher Update :rocket:
 We will release our new LLM-based LS method PromLS soonly.
 
 # Citation
