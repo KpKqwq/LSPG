@@ -1,4 +1,4 @@
-# LSPG
+# LSPG :house_with_garden:
 Implementation of our paper "Multilingual Lexical Simplification via Paraphrase
 Generation"
 
